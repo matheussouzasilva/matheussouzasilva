@@ -1,7 +1,5 @@
 ## Olá! 🙋🏾‍♂️
 
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussouzasilva&show_icons=true&theme=dark)
-
 ## Tecnologias do meu dia a dia
 
 <div style="display: inline_block"><br/>
@@ -27,7 +25,6 @@
 
 </div>
 
-<br/>
 <br/>
 
 ## Conecte-se comigo
